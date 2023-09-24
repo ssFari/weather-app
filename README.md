@@ -5,7 +5,7 @@ Personal Template
 
 This is the demo link I have. I hope you visit here.
 
-- [Weather](https://ssfari.github.io/portofolio2/)
+- [Weather](https://ssfari.github.io/weather-app/)
 
 ## Authors
 
